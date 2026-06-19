@@ -12,7 +12,7 @@
 > This project is for educational and personal use only. Do not use it for commercial purposes.
 
 - 本项目**不支持**下载 VIP 专属、付费专辑及任何受版权保护的内容
-- 对于 VIP 内容，API 仅返回 30 秒试听片段
+- 对于 VIP 内容，仅返回 30 秒试听片段
 - 下载内容请于 24 小时内删除
 - 请遵守当地法律法规及平台用户协议
 - 使用本项目产生的任何法律责任由用户自行承担
