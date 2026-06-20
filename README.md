@@ -47,8 +47,8 @@ Music player，基于 PyQt6 + NeteaseCloudMusicApi Enhanced。
 ### 1. 克隆仓库 / Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/netease_downloader.git
-cd netease_downloader
+git clone https://github.com/Android-devi/Music-player.git
+cd Music-player
 ```
 
 ### 2. 安装依赖 / Install dependencies
@@ -77,12 +77,12 @@ python main.py
 ## 打包 / Build
 
 ```bash
-pyinstaller --onefile --noconsole --add-data "language;language" --hidden-import PyQt6.QtMultimedia --hidden-import PyQt6.QtMultimediaWidgets main.py
+pyinstaller --onefile --noconsole --name Music_player --add-data "language;language" --hidden-import PyQt6.QtMultimedia --hidden-import PyQt6.QtMultimediaWidgets main.py
 ```
 
-打包后的文件位于 `dist/NetEaseDownloader.exe`。
+打包后的文件位于 `dist/Music_player.exe`。
 
-> The packaged file is located at `dist/NetEaseDownloader.exe`.
+> The packaged file is located at `dist/Music_player.exe`.
 
 ## 许可证 / License
 
