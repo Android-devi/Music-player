@@ -47,7 +47,7 @@ Music player，基于 PyQt6 + NeteaseCloudMusicApi Enhanced。
 ### 1. 克隆仓库 / Clone the repository
 
 ```bash
-git clone https://github.com/Android-devi/Music-player.git
+git clone https://github.com/ZXCVBNM4860/Music-player.git
 cd Music-player
 ```
 
