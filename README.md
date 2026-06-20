@@ -1,6 +1,6 @@
-# Netease Downloader
+# Music player
 
-网易云音乐下载器，基于 PyQt6 + NeteaseCloudMusicApi Enhanced。
+Music player，基于 PyQt6 + NeteaseCloudMusicApi Enhanced。
 
 > A NetEase Cloud Music downloader built with PyQt6 and NeteaseCloudMusicApi Enhanced.
 
